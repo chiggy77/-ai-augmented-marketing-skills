@@ -1,0 +1,43 @@
+{
+ "subject": "Time on site separates leads more than channel does",
+ "words": 183,
+ "grade": 4.7,
+ "checks": [
+  {
+   "name": "Subject present and <= 60 characters",
+   "ok": true,
+   "detail": "51 characters"
+  },
+  {
+   "name": "Body length 120-350 words",
+   "ok": true,
+   "detail": "183 words"
+  },
+  {
+   "name": "Reading grade <= 11 (Flesch-Kincaid)",
+   "ok": true,
+   "detail": "grade 4.7"
+  },
+  {
+   "name": "No sentence over 28 words",
+   "ok": true,
+   "detail": "0 long"
+  },
+  {
+   "name": "Exactly one call-to-action link",
+   "ok": true,
+   "detail": "1 links"
+  },
+  {
+   "name": "No buzzwords",
+   "ok": true,
+   "detail": "none"
+  },
+  {
+   "name": "Numbers have a source line",
+   "ok": true,
+   "detail": "9 figures, 1 source line(s)"
+  }
+ ],
+ "passed": true
+}

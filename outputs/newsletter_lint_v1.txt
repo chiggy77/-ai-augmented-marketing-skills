@@ -1,0 +1,8 @@
+FAIL Subject present and <= 60 characters (97 characters)
+PASS Body length 120-350 words (224 words)
+PASS Reading grade <= 11 (Flesch-Kincaid) (grade 8.4)
+FAIL No sentence over 28 words (4 long)
+FAIL Exactly one call-to-action link (2 links)
+FAIL No buzzwords (game-changer)
+FAIL Numbers have a source line (9 figures, 0 source line(s))
+RESULT: FAIL

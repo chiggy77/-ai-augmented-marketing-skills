@@ -1,0 +1,32 @@
+{
+  "converted_col": "Converted",
+  "dimensions": {
+    "Lead source": "Lead Source",
+    "Lead origin": "Lead Origin",
+    "Last activity": "Last Activity",
+    "Do not email flag": "Do Not Email"
+  },
+  "chart_dimension": "Lead source",
+  "engagement": {
+    "col": "Total Time Spent on Website",
+    "edges": [
+      0,
+      180,
+      600,
+      1200
+    ],
+    "label": "Total time spent on website (seconds)"
+  },
+  "min_group_size": 100,
+  "caveats": [
+    "Digital inbound leads only (Landing Page Submission and API); manually added and imported leads are excluded.",
+    "Public X Education lead-scoring data (9,240 leads in total, no dates), so no weekly trend can be shown.",
+    "Last activity can be recorded after conversion (for example a welcome SMS), so it is a symptom as much as a driver."
+  ],
+  "filter": {
+    "Lead Origin": [
+      "Landing Page Submission",
+      "API"
+    ]
+  }
+}

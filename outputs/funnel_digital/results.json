@@ -1,0 +1,250 @@
+{
+ "rows": 8466,
+ "conversions": 2883,
+ "overall_rate": 0.3405,
+ "overall_ci": [
+  0.3305,
+  0.3507
+ ],
+ "min_group_size": 100,
+ "dimensions": {
+  "Lead source": [
+   {
+    "group": "google",
+    "n": 2872,
+    "conv": 1146,
+    "rate": 0.399025,
+    "ci_lo": 0.381262,
+    "ci_hi": 0.417058,
+    "lift": 1.17
+   },
+   {
+    "group": "direct traffic",
+    "n": 2543,
+    "conv": 818,
+    "rate": 0.321667,
+    "ci_lo": 0.303793,
+    "ci_hi": 0.34008,
+    "lift": 0.94
+   },
+   {
+    "group": "olark chat",
+    "n": 1753,
+    "conv": 447,
+    "rate": 0.254991,
+    "ci_lo": 0.235139,
+    "ci_hi": 0.275916,
+    "lift": 0.75
+   },
+   {
+    "group": "organic search",
+    "n": 1154,
+    "conv": 436,
+    "rate": 0.377816,
+    "ci_lo": 0.350291,
+    "ci_hi": 0.406152,
+    "lift": 1.11
+   },
+   {
+    "group": "referral sites",
+    "n": 125,
+    "conv": 31,
+    "rate": 0.248,
+    "ci_lo": 0.180566,
+    "ci_hi": 0.330461,
+    "lift": 0.73
+   },
+   {
+    "group": "other (small groups)",
+    "n": 19,
+    "conv": 5,
+    "rate": 0.263158,
+    "ci_lo": 0.118062,
+    "ci_hi": 0.48792,
+    "lift": 0.77
+   }
+  ],
+  "Lead origin": [
+   {
+    "group": "landing page submission",
+    "n": 4886,
+    "conv": 1768,
+    "rate": 0.36185,
+    "ci_lo": 0.348489,
+    "ci_hi": 0.375428,
+    "lift": 1.06
+   },
+   {
+    "group": "api",
+    "n": 3580,
+    "conv": 1115,
+    "rate": 0.311453,
+    "ci_lo": 0.296492,
+    "ci_hi": 0.326818,
+    "lift": 0.91
+   }
+  ],
+  "Last activity": [
+   {
+    "group": "email opened",
+    "n": 3196,
+    "conv": 1047,
+    "rate": 0.327597,
+    "ci_lo": 0.311541,
+    "ci_hi": 0.344067,
+    "lift": 0.96
+   },
+   {
+    "group": "sms sent",
+    "n": 2401,
+    "conv": 1414,
+    "rate": 0.588921,
+    "ci_lo": 0.569113,
+    "ci_hi": 0.608445,
+    "lift": 1.73
+   },
+   {
+    "group": "olark chat conversation",
+    "n": 968,
+    "conv": 79,
+    "rate": 0.081612,
+    "ci_lo": 0.065974,
+    "ci_hi": 0.100557,
+    "lift": 0.24
+   },
+   {
+    "group": "page visited on website",
+    "n": 621,
+    "conv": 133,
+    "rate": 0.214171,
+    "ci_lo": 0.183713,
+    "ci_hi": 0.248143,
+    "lift": 0.63
+   },
+   {
+    "group": "converted to lead",
+    "n": 428,
+    "conv": 54,
+    "rate": 0.126168,
+    "ci_lo": 0.098001,
+    "ci_hi": 0.160987,
+    "lift": 0.37
+   },
+   {
+    "group": "email bounced",
+    "n": 311,
+    "conv": 15,
+    "rate": 0.048232,
+    "ci_lo": 0.029443,
+    "ci_hi": 0.078044,
+    "lift": 0.14
+   },
+   {
+    "group": "email link clicked",
+    "n": 244,
+    "conv": 50,
+    "rate": 0.204918,
+    "ci_lo": 0.159031,
+    "ci_hi": 0.259953,
+    "lift": 0.6
+   },
+   {
+    "group": "other (small groups)",
+    "n": 185,
+    "conv": 67,
+    "rate": 0.362162,
+    "ci_lo": 0.296358,
+    "ci_hi": 0.433575,
+    "lift": 1.06
+   },
+   {
+    "group": "form submitted on website",
+    "n": 112,
+    "conv": 24,
+    "rate": 0.214286,
+    "ci_lo": 0.14844,
+    "ci_hi": 0.299082,
+    "lift": 0.63
+   }
+  ],
+  "Do not email flag": [
+   {
+    "group": "no",
+    "n": 7777,
+    "conv": 2803,
+    "rate": 0.360422,
+    "ci_lo": 0.349822,
+    "ci_hi": 0.371159,
+    "lift": 1.06
+   },
+   {
+    "group": "yes",
+    "n": 689,
+    "conv": 80,
+    "rate": 0.11611,
+    "ci_lo": 0.094289,
+    "ci_hi": 0.142188,
+    "lift": 0.34
+   }
+  ]
+ },
+ "engagement_tiers": [
+  {
+   "tier": "0 (no time on site)",
+   "n": 1606,
+   "conv": 388,
+   "rate": 0.241594,
+   "ci_lo": 0.221291,
+   "ci_hi": 0.26313
+  },
+  {
+   "tier": "1-180",
+   "n": 1801,
+   "conv": 242,
+   "rate": 0.13437,
+   "ci_lo": 0.119394,
+   "ci_hi": 0.150902
+  },
+  {
+   "tier": "181-600",
+   "n": 2234,
+   "conv": 360,
+   "rate": 0.161146,
+   "ci_lo": 0.146483,
+   "ci_hi": 0.176972
+  },
+  {
+   "tier": "601-1200",
+   "n": 1397,
+   "conv": 922,
+   "rate": 0.659986,
+   "ci_lo": 0.634736,
+   "ci_hi": 0.684358
+  },
+  {
+   "tier": "> 1200",
+   "n": 1428,
+   "conv": 971,
+   "rate": 0.679972,
+   "ci_lo": 0.655321,
+   "ci_hi": 0.703657
+  }
+ ],
+ "engagement_threshold": {
+  "edge": 600,
+  "rate_above": 0.670088,
+  "n_above": 2825,
+  "rate_below": 0.149195,
+  "n_below": 4035
+ },
+ "insights": [
+  "**Engagement (Total Time Spent on Website):** the biggest jump is at 600. Leads above 600 convert at 67% (n=2,825) vs 15% (n=4,035) for leads with some activity up to 600. Use this threshold to prioritise follow-up.",
+  "**Last activity: email bounced** converts at only 5% (95% CI 3%-8%, n=311) vs 34% overall.",
+  "**Last activity: olark chat conversation** converts at only 8% (95% CI 7%-10%, n=968) vs 34% overall.",
+  "**Last activity: sms sent** converts at 59% (95% CI 57%-61%, n=2401) vs 34% overall, which is 1.7x the average.",
+  "**Do not email flag: yes** converts at only 12% (95% CI 9%-14%, n=689) vs 34% overall.",
+  "**Last activity: converted to lead** converts at only 13% (95% CI 10%-16%, n=428) vs 34% overall.",
+  "**Last activity: email link clicked** converts at only 20% (95% CI 16%-26%, n=244) vs 34% overall.",
+  "**Last activity: page visited on website** converts at only 21% (95% CI 18%-25%, n=621) vs 34% overall."
+ ]
+}

@@ -1,0 +1,8 @@
+PASS Subject present and <= 60 characters (51 characters)
+PASS Body length 120-350 words (183 words)
+PASS Reading grade <= 11 (Flesch-Kincaid) (grade 4.7)
+PASS No sentence over 28 words (0 long)
+PASS Exactly one call-to-action link (1 links)
+PASS No buzzwords (none)
+PASS Numbers have a source line (9 figures, 1 source line(s))
+RESULT: PASS

@@ -1,0 +1,5 @@
+id,action,owner,due,status
+1,Route leads with more than 600 s on site to sales the same day,Sales ops (example),2026-11-06,open
+2,Review chat (Olark) follow-up scripts; chat leads convert at 25%,Inside sales (example),2026-11-13,open
+3,Remove bounced addresses and honour do-not-email flags in the CRM,Marketing ops (example),2026-10-28,open
+4,Validate these patterns on live CRM data with dates before changing budget,Analytics (example),2026-11-20,open

@@ -1,0 +1,295 @@
+{
+ "rows": 9240,
+ "conversions": 3561,
+ "overall_rate": 0.3854,
+ "overall_ci": [
+  0.3755,
+  0.3954
+ ],
+ "min_group_size": 100,
+ "dimensions": {
+  "Lead source": [
+   {
+    "group": "google",
+    "n": 2873,
+    "conv": 1147,
+    "rate": 0.399234,
+    "ci_lo": 0.381472,
+    "ci_hi": 0.417266,
+    "lift": 1.04
+   },
+   {
+    "group": "direct traffic",
+    "n": 2543,
+    "conv": 818,
+    "rate": 0.321667,
+    "ci_lo": 0.303793,
+    "ci_hi": 0.34008,
+    "lift": 0.83
+   },
+   {
+    "group": "olark chat",
+    "n": 1755,
+    "conv": 448,
+    "rate": 0.255271,
+    "ci_lo": 0.235421,
+    "ci_hi": 0.276189,
+    "lift": 0.66
+   },
+   {
+    "group": "organic search",
+    "n": 1154,
+    "conv": 436,
+    "rate": 0.377816,
+    "ci_lo": 0.350291,
+    "ci_hi": 0.406152,
+    "lift": 0.98
+   },
+   {
+    "group": "reference",
+    "n": 534,
+    "conv": 490,
+    "rate": 0.917603,
+    "ci_lo": 0.891191,
+    "ci_hi": 0.93805,
+    "lift": 2.38
+   },
+   {
+    "group": "welingak website",
+    "n": 142,
+    "conv": 140,
+    "rate": 0.985915,
+    "ci_lo": 0.950103,
+    "ci_hi": 0.996129,
+    "lift": 2.56
+   },
+   {
+    "group": "referral sites",
+    "n": 125,
+    "conv": 31,
+    "rate": 0.248,
+    "ci_lo": 0.180566,
+    "ci_hi": 0.330461,
+    "lift": 0.64
+   },
+   {
+    "group": "other (small groups)",
+    "n": 114,
+    "conv": 51,
+    "rate": 0.447368,
+    "ci_lo": 0.359292,
+    "ci_hi": 0.538876,
+    "lift": 1.16
+   }
+  ],
+  "Lead origin": [
+   {
+    "group": "landing page submission",
+    "n": 4886,
+    "conv": 1768,
+    "rate": 0.36185,
+    "ci_lo": 0.348489,
+    "ci_hi": 0.375428,
+    "lift": 0.94
+   },
+   {
+    "group": "api",
+    "n": 3580,
+    "conv": 1115,
+    "rate": 0.311453,
+    "ci_lo": 0.296492,
+    "ci_hi": 0.326818,
+    "lift": 0.81
+   },
+   {
+    "group": "lead add form",
+    "n": 718,
+    "conv": 664,
+    "rate": 0.924791,
+    "ci_lo": 0.903159,
+    "ci_hi": 0.941902,
+    "lift": 2.4
+   },
+   {
+    "group": "other (small groups)",
+    "n": 56,
+    "conv": 14,
+    "rate": 0.25,
+    "ci_lo": 0.155169,
+    "ci_hi": 0.376929,
+    "lift": 0.65
+   }
+  ],
+  "Last activity": [
+   {
+    "group": "email opened",
+    "n": 3437,
+    "conv": 1253,
+    "rate": 0.364562,
+    "ci_lo": 0.34863,
+    "ci_hi": 0.380796,
+    "lift": 0.95
+   },
+   {
+    "group": "sms sent",
+    "n": 2745,
+    "conv": 1727,
+    "rate": 0.629144,
+    "ci_lo": 0.610905,
+    "ci_hi": 0.647022,
+    "lift": 1.63
+   },
+   {
+    "group": "olark chat conversation",
+    "n": 973,
+    "conv": 84,
+    "rate": 0.086331,
+    "ci_lo": 0.07027,
+    "ci_hi": 0.105645,
+    "lift": 0.22
+   },
+   {
+    "group": "page visited on website",
+    "n": 640,
+    "conv": 151,
+    "rate": 0.235937,
+    "ci_lo": 0.204679,
+    "ci_hi": 0.270348,
+    "lift": 0.61
+   },
+   {
+    "group": "converted to lead",
+    "n": 428,
+    "conv": 54,
+    "rate": 0.126168,
+    "ci_lo": 0.098001,
+    "ci_hi": 0.160987,
+    "lift": 0.33
+   },
+   {
+    "group": "email bounced",
+    "n": 326,
+    "conv": 26,
+    "rate": 0.079755,
+    "ci_lo": 0.055005,
+    "ci_hi": 0.114293,
+    "lift": 0.21
+   },
+   {
+    "group": "email link clicked",
+    "n": 267,
+    "conv": 73,
+    "rate": 0.273408,
+    "ci_lo": 0.223443,
+    "ci_hi": 0.329802,
+    "lift": 0.71
+   },
+   {
+    "group": "other (small groups)",
+    "n": 205,
+    "conv": 84,
+    "rate": 0.409756,
+    "ci_lo": 0.344695,
+    "ci_hi": 0.478137,
+    "lift": 1.06
+   },
+   {
+    "group": "form submitted on website",
+    "n": 116,
+    "conv": 28,
+    "rate": 0.241379,
+    "ci_lo": 0.172607,
+    "ci_hi": 0.326732,
+    "lift": 0.63
+   },
+   {
+    "group": "unknown",
+    "n": 103,
+    "conv": 81,
+    "rate": 0.786408,
+    "ci_lo": 0.697716,
+    "ci_hi": 0.854504,
+    "lift": 2.04
+   }
+  ],
+  "Do not email flag": [
+   {
+    "group": "no",
+    "n": 8506,
+    "conv": 3443,
+    "rate": 0.404773,
+    "ci_lo": 0.394387,
+    "ci_hi": 0.415245,
+    "lift": 1.05
+   },
+   {
+    "group": "yes",
+    "n": 734,
+    "conv": 118,
+    "rate": 0.160763,
+    "ci_lo": 0.135967,
+    "ci_hi": 0.189092,
+    "lift": 0.42
+   }
+  ]
+ },
+ "engagement_tiers": [
+  {
+   "tier": "0 (no time on site)",
+   "n": 2193,
+   "conv": 916,
+   "rate": 0.417693,
+   "ci_lo": 0.397213,
+   "ci_hi": 0.438461
+  },
+  {
+   "tier": "1-180",
+   "n": 1825,
+   "conv": 250,
+   "rate": 0.136986,
+   "ci_lo": 0.121972,
+   "ci_hi": 0.153526
+  },
+  {
+   "tier": "181-600",
+   "n": 2270,
+   "conv": 383,
+   "rate": 0.168722,
+   "ci_lo": 0.153879,
+   "ci_hi": 0.184686
+  },
+  {
+   "tier": "601-1200",
+   "n": 1457,
+   "conv": 978,
+   "rate": 0.671242,
+   "ci_lo": 0.646698,
+   "ci_hi": 0.694886
+  },
+  {
+   "tier": "> 1200",
+   "n": 1495,
+   "conv": 1034,
+   "rate": 0.691639,
+   "ci_lo": 0.667762,
+   "ci_hi": 0.714533
+  }
+ ],
+ "engagement_threshold": {
+  "edge": 600,
+  "rate_above": 0.681572,
+  "n_above": 2952,
+  "rate_below": 0.154579,
+  "n_below": 4095
+ },
+ "insights": [
+  "**Engagement (Total Time Spent on Website):** the biggest jump is at 600. Leads above 600 convert at 68% (n=2,952) vs 15% (n=4,095) for leads with some activity up to 600. Use this threshold to prioritise follow-up.",
+  "**Lead source: welingak website** converts at 99% (95% CI 95%-100%, n=142) vs 39% overall, which is 2.6x the average.",
+  "**Lead origin: lead add form** converts at 92% (95% CI 90%-94%, n=718) vs 39% overall, which is 2.4x the average.",
+  "**Lead source: reference** converts at 92% (95% CI 89%-94%, n=534) vs 39% overall, which is 2.4x the average.",
+  "**Last activity: email bounced** converts at only 8% (95% CI 6%-11%, n=326) vs 39% overall.",
+  "**Last activity: olark chat conversation** converts at only 9% (95% CI 7%-11%, n=973) vs 39% overall.",
+  "**Last activity: converted to lead** converts at only 13% (95% CI 10%-16%, n=428) vs 39% overall.",
+  "**Last activity: sms sent** converts at 63% (95% CI 61%-65%, n=2745) vs 39% overall, which is 1.6x the average."
+ ]
+}
