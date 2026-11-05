@@ -10,7 +10,7 @@ Four small reusable skills (SKILL.md format) for marketing operations, built by 
 | Training module builder | skills/training-module-builder | templates/module.md |
 
 ## Data
-`data/Leads.csv` (9,240 leads, not included in this repository: download it into `data/`) is the public X Education lead-scoring dataset, taken from the GitHub repository saptarshim7/Lead_Scoring_Case_Study. Check the original source's terms before republishing the raw data.
+Data: data/Leads.csv (9,240 leads) is the public X Education lead-scoring dataset. It is not included here. Download Leads.csv from github.com/saptarshim7/Lead_Scoring_Case_Study and save it in a folder named data. Check the source’s terms before republishing the raw data.
 
 ## Reproduce
 ```
